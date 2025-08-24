@@ -19,7 +19,7 @@ Utilizing AI and machine learning, SAP can analyze vast amounts of data to predi
   - SAP is actively expanding this proactive support model to various SAP products beyond its initial focus on SAP Commerce Cloud. 
 
 #### Intelligent Operations Maintenance. AI-Powered, Skill-Based Incident Routing.
-Moving beyond simple availability-based routing, a SAP intelligent system leverages AI to triage and assign incidents based on deep qualification matching. This ensures every inquiry is handled by the best-suited specialist.
+When routing incidents to the next available specialist and moving beyond simple availability-based routing, a __SAP intelligent__ system leverages __AI__ to triage and assign incidents based on deep qualification matching. This ensures every inquiry is handled by the __best-suited specialist__
 
 - Key __Matching Criteria__ Include <br> <br>
    - Specific technical skills and knowledge
